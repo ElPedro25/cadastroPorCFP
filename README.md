@@ -2,7 +2,8 @@
 
 Link:https://elpedro25.github.io/cadastroPorCFP/
 
-CPFs Disponíveis: 
+CPFs Disponíveis:
+
 Cristiano Ronaldo: 11122233300
 Bruno Mars: 12123234300
 Kylian Mbappé: 21232312100
